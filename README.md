@@ -1,6 +1,6 @@
 # Zero Shot Learning
 
-###Papers
+### Papers
 
 - **Zero-Shot Learning with Semantic Output Codes** (2009), Palatucci, Mark, et al. [[pdf]](https://www.cs.cmu.edu/~fmri/papers/zero-shot-learning.pdf)
 - **Zero-Shot Learning by Convex Combination of Semantic Embeddings** (2013), Norouzi, Mohammad, et al.. [[pdf]](https://arxiv.org/pdf/1312.5650.pdf) [[code]](https://github.com/rajat503/zero-shot-classification)
@@ -15,6 +15,6 @@
 - **Zero-Shot Learning - The Good, the Bad and the Ugly** (2017), Xian, Yongqin, Bernt Schiele, and Zeynep Akata.[[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xian_Zero-Shot_Learning_-_CVPR_2017_paper.pdf)
 
 
-###Other Resources
+### Other Resources
 
 - https://github.com/pujols/zero-shot-learning
