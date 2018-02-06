@@ -3,7 +3,7 @@
 ### Papers
 
 - **Zero-Shot Learning with Semantic Output Codes** (2009), Palatucci, Mark, et al. [[pdf]](https://www.cs.cmu.edu/~fmri/papers/zero-shot-learning.pdf)
-- **Zero-Shot Learning by Convex Combination of Semantic Embeddings** (2013), Norouzi, Mohammad, et al.. [[pdf]](https://arxiv.org/pdf/1312.5650.pdf) [[code]](https://github.com/rajat503/zero-shot-classification)
+- **Zero-Shot Learning by Convex Combination of Semantic Embeddings** (2013), Norouzi, Mohammad, et al. [[pdf]](https://arxiv.org/pdf/1312.5650.pdf) [[code]](https://github.com/rajat503/zero-shot-classification)
 - **Zero-Shot Learning Through Cross-Modal Transfers** (2013), Socher, Richard, et al.  [[pdf]](http://papers.nips.cc/paper/5027-zero-shot-learning-through-cross-modal-transfer.pdf) [[code]](https://github.com/mganjoo/zslearning)
 - **DeViSE: A Deep Visual-Semantic Embedding Model** (2013), Frome, Andrea, et al. [[pdf]](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41473.pdf)
 - **Improving zero-shot learning by mitigating the hubness problem** (2014), Dinu, Georgiana, Angeliki Lazaridou, and Marco Baroni. [[pdf]](https://arxiv.org/pdf/1412.6568.pdf) [[code]](http://clic.cimec.unitn.it/~georgiana.dinu/down/)
@@ -18,3 +18,11 @@
 ### Other Resources
 
 - https://github.com/pujols/zero-shot-learning
+
+# Generative Adversarial Network
+
+### Papers
+
+- **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks** (ICCV 2017), Zhu, Jun-Yan, et al. [[website]](https://junyanz.github.io/CycleGAN/)
+- **Toward Multimodal Image-to-Image Translation** (NIPS 2017), Zhu, Jun-Yan, et al. [[website]](https://junyanz.github.io/BicycleGAN/)
+- **Zero-Shot Learning Through Cross-Modal Transfers** (CVPR 2017), Isola, Phillip, et al.   [[website]](https://phillipi.github.io/pix2pix/)
