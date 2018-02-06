@@ -33,3 +33,4 @@
 ### Other resources
 
 - Udacity Videos(Ian Goodfellow): https://www.nodalpoint.com/gans-udacity/
+- https://github.com/wiseodd/generative-models
