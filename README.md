@@ -23,6 +23,7 @@
 
 ### Papers
 
+- **Generative Adversarial Nets** (NIPS 2014), Goodfellow, Ian, et al. [[paper]](http://papers.nips.cc/paper/5423-generative-adversarial-nets)
 - **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks** (ICCV 2017), Zhu, Jun-Yan, et al. [[website]](https://junyanz.github.io/CycleGAN/)
 - **Toward Multimodal Image-to-Image Translation** (NIPS 2017), Zhu, Jun-Yan, et al. [[website]](https://junyanz.github.io/BicycleGAN/)
 - **Zero-Shot Learning Through Cross-Modal Transfers** (CVPR 2017), Isola, Phillip, et al.   [[website]](https://phillipi.github.io/pix2pix/)
