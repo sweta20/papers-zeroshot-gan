@@ -14,6 +14,8 @@
 - **Knowledge Distillation for Bilingual Dictionary Induction** (2017), Nakashole, Ndapandula, and Raphael Flauger.[[pdf]](http://aclweb.org/anthology/D17-1264)
 - **Recent Advances in Zero-shot Recognition** (2017), Fu, Yanwei, et al.[[pdf]](https://arxiv.org/pdf/1710.04837.pdf)
 - **Zero-Shot Learning - The Good, the Bad and the Ugly** (2017), Xian, Yongqin, Bernt Schiele, and Zeynep Akata.[[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xian_Zero-Shot_Learning_-_CVPR_2017_paper.pdf)
+- **Zero-Shot Visual Recognition via Bidirectional Latent Embedding** (2017) Wang, Qian, and Ke Chen. [[pdf]](http://staff.cs.manchester.ac.uk/~kechen/publication/ijcv17.pdf) [[code]](http://staff.cs.manchester.ac.uk/~kechen/BiDiLEL/)
+
 
 ### Other Resources
 
