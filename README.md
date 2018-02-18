@@ -18,6 +18,8 @@
 ### Other Resources
 
 - https://github.com/pujols/zero-shot-learning
+- https://people.cs.umass.edu/~sladha/files/cs772_poster.pdf
+- https://github.com/pujols/zero-shot-learning
 
 # Generative Adversarial Network
 
